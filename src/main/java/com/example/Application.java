@@ -12,5 +12,10 @@ public class Application {
 		System.out.println("We are working in stash mode , once it will complete then only we will continue");
 		SpringApplication.run(Application.class, args);
 	}
+    //HIS-200 released
+    public void doProcess()
+   {
+      //logic here
+   }
 
 }
